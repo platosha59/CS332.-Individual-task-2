@@ -1,0 +1,45 @@
+C:\Users\User\source\repos\CornishRoom\CornishRoom\bin\Debug\CornishRoom.exe
+C:\Users\User\source\repos\CornishRoom\CornishRoom\bin\Debug\CornishRoom.pdb
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Form1.resources
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Properties.Resources.resources
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.exe
+C:\Users\User\source\repos\CornishRoom\CornishRoom\obj\Debug\CornishRoom.pdb
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\bin\Debug\CornishRoom.exe
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\bin\Debug\CornishRoom.pdb
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csprojAssemblyReference.cache
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Form1.resources
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Properties.Resources.resources
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.GenerateResource.cache
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.CoreCompileInputs.cache
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.exe
+D:\university\CompGraph\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.pdb
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\bin\Debug\CornishRoom.exe
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\bin\Debug\CornishRoom.pdb
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Form1.resources
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Properties.Resources.resources
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.exe
+C:\Users\andre\Desktop\корн комн\DropMeFiles_aqe9x\Корнуэльская комната\Корнуэльская комната\CornishRoom\CornishRoom\obj\Debug\CornishRoom.pdb
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Form1.resources
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.Properties.Resources.resources
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.exe
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\obj\Debug\CornishRoom.pdb
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\bin\Debug\CornishRoom.exe
+C:\Users\andre\Desktop\CornishRoom\CornishRoom\bin\Debug\CornishRoom.pdb
+C:\Cornish_Room-master\CornishRoom\bin\Debug\CornishRoom.exe
+C:\Cornish_Room-master\CornishRoom\bin\Debug\CornishRoom.pdb
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.csprojAssemblyReference.cache
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.Form1.resources
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.Properties.Resources.resources
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.csproj.GenerateResource.cache
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.csproj.CoreCompileInputs.cache
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.exe
+C:\Cornish_Room-master\CornishRoom\obj\Debug\CornishRoom.pdb
